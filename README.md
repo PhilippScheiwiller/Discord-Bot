@@ -1,16 +1,16 @@
 # Discord Bot
 
-This Discord Bot provides many useful functions including moderation and entertainment commands.
+This discord bot provides many useful functions including moderation and entertainment commands.
 
 ---
 ## ✨ Features
-- Moderation like Ban and Kick Commands, aswell as Chat clearance
-- Ticket Support System
-- Toggable leveling System
-- Giveaway Function
-- Auto Message and Role Settings
-- Custom Timer
-- ServerInfo, Help command, Chat Message, Dice-Roll, Emojify and Coin-Flip
+- Moderation like ban and kick commands, aswell as chat deletion
+- Ticket support system
+- Toggable leveling system
+- Giveaway function
+- Auto message and role settings
+- Custom timer
+- Server Informatin, help command, chat message, dice-roll, emojify and coin-flip
 
 ## 📦 Requirements
 
